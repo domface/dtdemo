@@ -1,6 +1,6 @@
 
 .DS_Store
 .idea/
-dataTheorem/.idea/
-dataTheorem/.ipynb_checkpoints/
-www/data_theorem/node_modules/
+dt/.idea/
+dt/.ipynb_checkpoints/
+www/dt/node_modules/

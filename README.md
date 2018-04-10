@@ -1,6 +1,5 @@
-# data-theorem
 
-> demo for data theorem project
+> demo for DT project
 
 > you must have docker installed to run the project locally
 
@@ -11,7 +10,7 @@
 - Make sure your have node.js installed locally. 
 - After installing node, in the project root directory,
 ``` bash
-$ cd ./www/data_theorem
+$ cd ./www/dt
 $ npm install 
 $ npm run build
 ```

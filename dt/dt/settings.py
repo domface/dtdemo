@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'data_theorem_demo.apps.DataTheoremDemoConfig',
+    'dt_demo.apps.DataTheoremDemoConfig',
 ]
 
 MIDDLEWARE = [
@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'dataTheorem.urls'
+ROOT_URLCONF = 'dt.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'dataTheorem.wsgi.application'
+WSGI_APPLICATION = 'dt.wsgi.application'
 
 
 # Database

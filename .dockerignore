@@ -1,5 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
-www/data_theorem/src/
-www/data_theorem/node_modules/
+www/dt/src/
+www/dt/node_modules/
 .git/
 .idea/
