@@ -16,7 +16,7 @@ Including another URLconf
 # from django.contrib import admin
 from django.urls import path
 from rest_framework import routers
-from data_theorem_demo.views import *
+from dt_demo.views import *
 
 urlpatterns = [
     path('api/query/', CreateQueryView.as_view(), name='query')
